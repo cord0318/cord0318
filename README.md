@@ -18,11 +18,5 @@
 <img src="https://img.shields.io/badge/-정지효%236521-4e5d94?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-<p align="center">
-
-
-
-</p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cord0318&show_icon=true&theme=github_dark">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cord0318&hide=html">
