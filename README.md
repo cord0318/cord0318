@@ -17,3 +17,6 @@
 <img src="https://img.shields.io/badge/-cord0318@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:cord0318@gmail.com"/>&nbsp
 <img src="https://img.shields.io/badge/-정지효%236521-4e5d94?style=flat-square&logo=discord&logoColor=white"/>
 </p>
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cord0318&layout=compact)-->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cord0318&layout=compact" /><br>
