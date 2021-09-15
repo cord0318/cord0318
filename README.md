@@ -1,4 +1,6 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cord0318&fontSize=80" />
+<p align="center"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=cord0318&fontSize=80" />
+</p>
 
 <h3 align="center">🛠 Technology Stack 🛠</h3>
 <p align="center">
