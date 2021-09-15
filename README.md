@@ -15,5 +15,5 @@
 <h3 align="center"> Contact </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-cord0318@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:cord0318@gmail.com"/>&nbsp
-<img src="https://img.shields.io/badge/-정지효#6521-4e5d94?style=flat-square&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/-정지효%236521-4e5d94?style=flat-square&logo=discord&logoColor=white"/>
 </p>
