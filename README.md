@@ -19,6 +19,12 @@
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
 </p>
 
+<h3 align="center">⌨ My OS ⌨</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+</p>
 
 <h3 align="center"> Contact </h3>
 <p align="center">
