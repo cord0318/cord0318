@@ -14,7 +14,7 @@
 
 <h3 align="center">💻 My Tool 💻</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=Git&logoColor=white"/></a>
 </p>
 
