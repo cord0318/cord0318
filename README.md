@@ -18,5 +18,5 @@
 <img src="https://img.shields.io/badge/-정지효%236521-4e5d94?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cord0318&layout=compact" /><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cord0318&layout=compact" /><br>
 [![cord0318's GitHub stats](https://github-readme-stats.vercel.app/api?username=cord0318)](https://github.com/anuraghazra/github-readme-stats)
