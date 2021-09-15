@@ -18,6 +18,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-cord0318@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:cord0318@gmail.com"/>&nbsp
 <img src="https://img.shields.io/badge/-정지효%236521-4e5d94?style=flat-square&logo=discord&logoColor=white"/>
+<a href="https://twitter.com/jihyo0318" target="_blank"><img src="https://img.shields.io/badge/jihyo0318-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
 <p align="center">
