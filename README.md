@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=Git&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
 </p>
 
 
