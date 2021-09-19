@@ -40,5 +40,5 @@
 
 <h3 align="center"> 나에 대해 더 궁금하다면.. </h3>
 <p align="center">
-    <a href="https://github.com/cord0318/cord0318/blob/main/%EC%A0%95%EC%A7%80%ED%9A%A8.md">About Me (Click Me!)</a>
+    <a href="https://github.com/cord0318/cord0318/blob/main/%EC%A0%95%EC%A7%80%ED%9A%A8.md">About Me (Click Me!) 🥰</a>
 </p>
