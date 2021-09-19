@@ -37,7 +37,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cord0318&show_icon=true&theme=github_dark">
 </p>
+
 <h3 align="center"> 나에 대해 더 궁금하다면.. </h3>
 <p align="center">
-[About Me](./정지효.md)
+    <a href="https://github.com/cord0318/cord0318/blob/main/%EC%A0%95%EC%A7%80%ED%9A%A8.md">About Me (Click Me!)</a>
 </p>
