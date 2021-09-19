@@ -33,9 +33,11 @@
 <a href="https://twitter.com/jihyo0318" target="_blank"><img src="https://img.shields.io/badge/jihyo0318-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
+<h3 align="center"> My Github Stats </h3>
 <p align="center">
-<h3> My Github Stats </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=cord0318&show_icon=true&theme=github_dark">
-<h3> My BOJ Stats </h3>
+</p>
+<h3 align="center"> My BOJ Stats </h3>
+<p align="center">
 <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jihyo0318">
 </p>
