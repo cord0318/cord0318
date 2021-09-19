@@ -37,7 +37,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cord0318&show_icon=true&theme=github_dark">
 </p>
-<h3 align="center"> My BOJ Stats </h3>
+<h3 align="center"> 나에 대해 더 궁금하다면.. </h3>
 <p align="center">
-<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jihyo0318">
+[About Me](./정지효.md)
 </p>
