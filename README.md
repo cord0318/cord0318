@@ -34,6 +34,8 @@
 </p>
 
 <p align="center">
+<h3> My Github Stats </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=cord0318&show_icon=true&theme=github_dark">
+<h3> My BOJ Stats </h3>
 <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jihyo0318">
 </p>
