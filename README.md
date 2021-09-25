@@ -4,11 +4,9 @@
 
 <h3 align="center">🛠 Technology Stack 🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <a href="https://www.python.org" target="_blank"> <img src="icons/python.svg" alt="python" width="40" height="40"/> </a> &nbsp; &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="icons/javascript.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.java.com" target="_blank"> <img src="icons/java.svg" alt="java" width="40" height="40"/> </a> &nbsp;
 </p>
 
 <h3 align="center">💻 My Tool 💻</h3>
@@ -26,11 +24,12 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 </p>
 
-<h3 align="center"> Contact </h3>
+<h3 align="center"> Contact Me </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-cord0318@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:cord0318@gmail.com"/>&nbsp
-<img src="https://img.shields.io/badge/-정지효%236521-4e5d94?style=flat-square&logo=discord&logoColor=white"/>
-<a href="https://twitter.com/jihyo0318" target="_blank"><img src="https://img.shields.io/badge/jihyo0318-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://discord.com/users/761779146434805770" target="_blank"> <img src="icons/discord.svg" alt="discord" width="33" height="33"/> </a> &nbsp;
+  <a href="https://www.facebook.com/jihyo0318" target="_blank"> <img src="icons/facebook.svg" alt="facebook" width="33" height="33"/> </a> &nbsp;
+  <a href="https://www.instagram.com/cord0318" target="_blank"> <img src="icons/instagram.svg" alt="instagram" width="33" height="33"/> </a> &nbsp;
+  <a href="mailto:cord0318@gmail.com" target="_blank"> <img src="icons/email.svg" alt="email" width="33" height="33"/> </a> &nbsp;
 </p>
 
 <h3 align="center"> My Github Stats </h3>
@@ -40,5 +39,5 @@
 
 <h3 align="center"> 나에 대해 더 궁금하다면.. </h3>
 <p align="center">
-    <a href="https://github.com/cord0318/cord0318/blob/main/%EC%A0%95%EC%A7%80%ED%9A%A8.md">About Me! 🥰</a>
+    <a href="https://github.com/cord0318/cord0318/blob/main/%EC%A0%95%EC%A7%80%ED%9A%A8.md">About Me (Click Me!) 🥰</a>
 </p>
