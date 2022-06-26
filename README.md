@@ -13,15 +13,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=Git&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Safari-4285F4?style=flat-square&logo=Safari Safari&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AndroidStudio-01420?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
 </p>
 
 <h3 align="center">⌨ My OS ⌨</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MacOS-557C94?style=flat-square&logo=MacOS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+
 </p>
 
 <h3 align="center"> Contact Me </h3>
@@ -39,5 +40,5 @@
 
 <h3 align="center"> 나에 대해 더 궁금하다면.. </h3>
 <p align="center">
-    <a href="https://github.com/cord0318/cord0318/blob/main/%EC%A0%95%EC%A7%80%ED%9A%A8.md">About Me (Click Me!) 🥰</a>
+    <a href="https://jihyo.pages.dev">About Me (Click Me!) 🥰</a>
 </p>
